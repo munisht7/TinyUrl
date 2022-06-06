@@ -9,8 +9,8 @@ The following components are required to get started with automation:
 
 ## Getting Started
 
-* Copy the repository into your local machine using the github url -> 
-* Checkout master branch for the latest changes.
+* Copy the repository into your local machine using the github url -> https://github.com/munisht7/TinyUrl.git
+* Checkout qa branch for the latest changes.
 
 ## Built With
 * Maven - Dependency management
